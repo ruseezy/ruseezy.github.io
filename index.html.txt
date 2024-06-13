@@ -1,0 +1,31 @@
+<!--*****************RESUME******************--!>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!--TITLE-->
+<p>RESUME</p>
+<!--ICON-->
+<p></p>
+<!--META TAGS-->
+<p></p>
+<!--GOOGLE FONTS-->
+<p></p>
+<!--PLUGIN-->
+<p></p>
+<!--FONT AWESOME-->
+<p></p>
+<!--EXTERNAL CSS-->
+<p></p>
+<div class="container>
+<section class="section_left"><center><img
+src="https://edu-inform.ru/upload/iblock/3c7/3c74c1600e0b76417b3f0b4d15cf8d9c.jpg" alt = "AUTHOR />
+<h1 class="title">Таболов Руслан</h1>
+</center><hr />
+<h5 class="sub-title">CONTACT INFO</h5>
+<ul>
+<li>+79999687354</li>
+<li>rusya.tabol2016@gmail.com</li>
+<li>МГТУ Станкин, гр. АДБ-22-07</li>
+<li>Вадковский переулок, д. 1</li>
+</ul>
+</section>
+</div>
