@@ -29,3 +29,4 @@ src="https://edu-inform.ru/upload/iblock/3c7/3c74c1600e0b76417b3f0b4d15cf8d9c.jp
 </ul>
 </section>
 </div>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
